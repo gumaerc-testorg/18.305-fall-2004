@@ -2,8 +2,13 @@
 content_type: resource
 description: Problem set with solutions. Problem sets are courtesy of Mustafa Sabri
   Kilic. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/00fa8975edf063b2b99ff53d860e3b76_hwII.pdf
+file: /media/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/00fa8975edf063b2b99ff53d860e3b76_hwII.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hwII.pdf
 uid: 00fa8975-edf0-63b2-b99f-f53d860e3b76
