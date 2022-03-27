@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c19fbc9-d8c6-0dc9-141a-1b4180bacc26
 resourcetype: Document
 title: fifth1.pdf
 uid: a9ccf935-494d-8c57-89ac-877799cee61a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c19fbc9-d8c6-0dc9-141a-1b4180bacc26
 resourcetype: Document
 title: nineten.pdf
 uid: 252a381c-174f-e21a-39b5-9e15b9d173cd
