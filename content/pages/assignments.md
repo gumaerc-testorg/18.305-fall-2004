@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ ASSIGNMENTS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/hwi))
+Problem Set 1 ({{% resource_link 90dc98e1-2d43-a5ea-a89a-917e3aed23d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/hwi))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/hwii))
+Problem Set 2 ({{% resource_link 00fa8975-edf0-63b2-b99f-f53d860e3b76 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/hwii))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/hwiii1))
+Problem Set 3 ({{% resource_link c29381fe-eed6-5893-d254-851dd8fe0386 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/hwiii1))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/hwiv1))
+Problem Set 4 ({{% resource_link 7f09dbda-4d2e-f9fe-956a-af82c6b84485 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/hwiv1))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/hwv1))
+Problem Set 5 ({{% resource_link 73661c14-84b5-b28c-81cf-3e0cfc15eb2f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/hwv1))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/hwvi))
+Problem Set 6 ({{% resource_link 0edd506b-839a-0ab4-2e74-aa763f830785 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/hwvi))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/hwvii))
+Problem Set 7 ({{% resource_link 93a6cded-b1db-bff5-99b8-e670111f42ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/hwvii))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/hwviii))
+Problem Set 8 ({{% resource_link 71b151dd-1651-a171-c343-b8d35535332d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
