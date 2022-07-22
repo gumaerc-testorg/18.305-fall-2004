@@ -6,6 +6,7 @@ file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hwVI.pdf
 uid: 0edd506b-839a-0ab4-2e74-aa763f830785
 ---
 Problem set with solutions. Problem sets are courtesy of Mustafa Sabri Kilic. Used with permission.
-

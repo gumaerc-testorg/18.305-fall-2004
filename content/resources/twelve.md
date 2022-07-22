@@ -5,6 +5,7 @@ file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: twelve.pdf
 uid: 3477ac43-d18b-5f90-1fe9-bae124e85ce6
 ---
 Lecture notes and example problems.
-
