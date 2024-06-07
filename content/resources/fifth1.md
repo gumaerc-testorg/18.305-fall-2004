@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes and example problems.
 file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/a9ccf935494d8c5789ac877799cee61a_fifth1.pdf
+file_size: 42897
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
