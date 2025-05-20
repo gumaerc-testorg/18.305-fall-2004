@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set with solutions. Problem sets are courtesy of Mustafa Sabri
   Kilic. Used with permission.
-file: /ol-ocw-studio-app/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/71b151dd1651a171c343b8d35535332d_hwVIII.pdf
+file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/71b151dd1651a171c343b8d35535332d_hwVIII.pdf
 file_size: 107046
 file_type: application/pdf
 learning_resource_types:

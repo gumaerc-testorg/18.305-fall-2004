@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Examination problems with solutions.
-file: /ol-ocw-studio-app/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/8d4b61c99ed57984f1834b695103bba9_305exam.pdf
+file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/8d4b61c99ed57984f1834b695103bba9_305exam.pdf
 file_size: 46268
 file_type: application/pdf
 learning_resource_types:
