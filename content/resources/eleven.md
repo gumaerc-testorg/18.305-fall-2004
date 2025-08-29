@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes and example problems.
-file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/cd6f937f4b1c78f8d76340ad7d03c973_eleven.pdf
+file: /ol-ocw-studio-app/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/cd6f937f4b1c78f8d76340ad7d03c973_eleven.pdf
 file_size: 52981
 file_type: application/pdf
 learning_resource_types:
